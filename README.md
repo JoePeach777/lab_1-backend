@@ -54,11 +54,6 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-- *На macOS / Linux:*
-
-```bash
-source venv/bin/activate
-```
 
 *(После успешной активации в начале строки терминала появится надпись `(venv)`).*
 
